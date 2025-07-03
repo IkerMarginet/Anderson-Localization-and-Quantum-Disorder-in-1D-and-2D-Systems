@@ -12,7 +12,7 @@
 
 This repository hosts a formal and progressive research project on *Anderson localization* and related quantum phenomena in disordered systems. The core material stems from an advanced undergraduate thesis that seeks to bridge rigorous theoretical modeling with custom Python simulations.
 
-This work is built with the aim of achieving both pedagogical clarity and scientific reliability — in line with the standards of international academic institutions such as **CERN**.
+This work is built with the aim of achieving both pedagogical clarity and scientific reliability — in line with the standards of international academic institutions.
 
 ---
 
