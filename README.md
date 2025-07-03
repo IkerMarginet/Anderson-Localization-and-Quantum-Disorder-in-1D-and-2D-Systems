@@ -18,7 +18,7 @@ This work is built with the aim of achieving both pedagogical clarity and scient
 
 ## 📂 Contents
 
-- 📄 `Stage_L3.pdf`  
+- 📄 `Stage_L3.pdf` *(in progress)*
   Main theoretical report introducing the Anderson model in 1D and quasi-2D, Lyapunov exponents, Inverse Participation Ratio (IPR), spectral statistics, transfer matrix formalism, and applications to electric/magnetic field coupling, among others.
 
 - 📁 `simulations/` *(in progress)*  
@@ -93,7 +93,7 @@ All material is crafted with clarity, depth, and reproducibility in mind — in 
 
 | Milestone | Description | Status |
 |----------|-------------|--------|
-| `Stage_L3.pdf` | Anderson model theory and application | ✅ |
+| `Stage_L3.pdf` | Anderson model theory and application | ⏳ |
 | Python code structure | Modular simulation framework per topic | ⏳ |
 | Data output per regime | Graphs, values, IPR, eigenfunctions | ⏳ |
 | Green's function report | Document on weak-disorder regimes | 🔜 |
