@@ -1,7 +1,8 @@
 # Anderson Localization and Quantum Disorder in 1D and 2D Systems
 
 **Author**: Iker Marginet Ballester  
-**Affiliation**: Université de Toulouse, Laboratoire de Physique Theorique de Toulouse, Undergraduate in Physics (L3)
+**Affiliation**: Université de Toulouse, Laboratoire de Physique Theorique de Toulouse. 
+**About**: Undergraduate in Physics (L3).
 **Status**: Ongoing | Simulations & codebase in development  
 **Languages**: 🇫🇷 French (current) | 🇬🇧 English (upcoming)
 
