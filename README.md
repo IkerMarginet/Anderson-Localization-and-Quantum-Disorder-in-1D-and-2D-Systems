@@ -10,10 +10,9 @@
 
 ## 📘 Overview
 
-This repository hosts a formal and progressive research project on *Anderson localization* and related quantum phenomena in disordered systems. The core material stems from an advanced undergraduate thesis that seeks to bridge rigorous theoretical modeling with custom Python simulations.
+This repository is a systematic and ongoing research project centered around Anderson localization and related quantum phenomena within disordered systems. The material is based upon an upper-level undergraduate thesis and seeks to combine sound theoretical concepts with specialized Python simulations.
 
-This work is built with the aim of achieving both pedagogical clarity and scientific reliability — in line with the standards of international academic institutions.
-
+The aim in this research is to achieve scholarly accuracy and empirical authenticity in accordance with the standards stipulated by worldwide educational institutions.
 ---
 
 ## 📂 Contents
@@ -83,10 +82,9 @@ All code will be developed using:
 
 ## 🔍 Vision & Academic Objective
 
-This repository represents my personal approach to rigorous and exploratory physics research. It aligns with my long-term goal to contribute to **condensed matter theory** and **quantum transport phenomena**, particularly in disordered or strongly correlated systems.
+This repository represents my personal approach towards careful and inquiring research within the discipline of physics. It aligns with my broader goal to contribute to **condensed matter theory** and **quantum transport phenomena**, particularly in relation to disordered or strongly correlated systems.
 
-All material is crafted with clarity, depth, and reproducibility in mind — in view of pursuing future opportunities in **international collaborative environments**, especially research programs at **CERN** and similar institutions.
-
+All of the materials are carefully designed with attention to precision, clarity, and reproducibility, with the specific goal of investigating potential directions in **international collaborative environments**, in particular for research activities at **CERN** and similar institutions.
 ---
 
 ## 📌 Roadmap
