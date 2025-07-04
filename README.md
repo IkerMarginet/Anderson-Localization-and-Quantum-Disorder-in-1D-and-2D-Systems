@@ -103,6 +103,16 @@ All of the materials are carefully designed with attention to precision, clarity
 
 ---
 
+## 📄 Incremental Uploads & Residual Archive
+
+To keep this repository active throughout the ongoing research and writing process:
+
+- **Standalone PDFs** — As individual sections of the main report are completed (e.g., *Introduction*, *Historical Context*, *1D Calculations*), they will be uploaded as small, self-contained PDF files (e.g., `Introduction.pdf`, `1DCalculations.pdf`, etc.).
+- **Isolated Code Snippets** — Short and focused Python scripts developed alongside these sections will also be included, providing immediate access to preliminary results and figures.
+- **`/residual/` Directory** *(planned)* — Once the full report and finalized simulation suite are complete, these intermediate documents and code snippets will be moved into a dedicated `/residual/` folder. They will remain accessible for transparency and reproducibility, while keeping the root structure clean.
+
+---
+
 ## 📫 Contact
 
 For feedback, academic collaboration, or simulation requests:
