@@ -117,7 +117,7 @@ To keep this repository active throughout the ongoing research and writing proce
 
 For feedback, academic collaboration, or simulation requests:
 
-- **GitHub**: [github.com/IkerMarginet](https://github.com/IkerMarginet) *(placeholder)*
+- **GitHub**: [github.com/IkerMarginet](https://github.com/IkerMarginet)
 - **Email**: ikergenki@gmail.com
 
 
