@@ -85,7 +85,7 @@ All code will be developed using:
 
 This repository represents my personal approach towards careful and inquiring research within the discipline of physics. It aligns with my broader goal to contribute to **condensed matter theory** and **quantum transport phenomena**, particularly in relation to disordered or strongly correlated systems.
 
-All of the materials are carefully designed with attention to precision, clarity, and reproducibility, with the specific goal of investigating potential directions in **international collaborative environments**, in particular for research activities at **CERN** and similar institutions.
+All of the materials are carefully designed with attention to precision, clarity, and reproducibility, with the specific goal of investigating potential directions in **international collaborative environments**.
 
 ---
 
