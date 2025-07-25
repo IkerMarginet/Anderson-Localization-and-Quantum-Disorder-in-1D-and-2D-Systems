@@ -2,7 +2,7 @@
 
 **Author**: Iker Marginet Ballester  
 **Affiliation**: Université de Toulouse — Laboratoire de Physique Théorique de Toulouse  
-**About**: Undergraduate in Physics (L3)  
+**About**: Graduate student in Physics  
 **Status**: Ongoing | Python simulations & formal analyses in development  
 **Languages**: 🇫🇷 French (current) | 🇬🇧 English (upcoming)
 
