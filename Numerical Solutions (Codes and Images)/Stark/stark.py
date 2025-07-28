@@ -174,10 +174,10 @@ def plot_dos_comparison(evals, W, F, t=1.0, base_dir="stark_anderson_results"):
     Mean energy: {np.mean(evals):.2f}
     Energy std: {np.std(evals):.2f}
     Histogram integral: {np.sum(hist)*bin_width:.2f}
-    KDE integral: {np.trapz(y_kde, x_kde):.2f}
+    KDE integral: {np.trapezoid(y_kde, x_kde):.2f}
     """
     if W == 0 and F == 0:
-        stats_text += f"Theory integral: {np.trapz(y_theory, x_theory):.2f}"
+        stats_text += f"Theory integral: {np.trapezoid(y_theory, x_theory):.2f}"
     
     plt.gcf().text(0.72, 0.15, stats_text, bbox=dict(facecolor='white', alpha=0.8))
     plt.tight_layout()
